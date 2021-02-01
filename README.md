@@ -4,7 +4,7 @@ Software engineer (following the hype 🤦‍♂️) with 15+ years of experienc
 
 Dad of two boys, creator of [JSFromHell](http://jsfromhell.com), challenge lover, bug hunter, soccer player wannabe, lego builder, fan of Italian food and desserts =]
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasraoni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasraoni&layout=compact&langs_count=10)](https://github.com/jonasraoni)
 
 ### Random facts
 
@@ -27,5 +27,7 @@ Dad of two boys, creator of [JSFromHell](http://jsfromhell.com), challenge lover
 - I've been once a victim of a ransomware as well! Someone connected to my MySQL database years ago and renamed the databases to form a message asking for money (after that I've finally became a bit psycho with security) 💩
 - My favorite PC games were Euro Fighter 2000 (a flight simulator), Full Throttle, Indiana Jones, Quake, Duke Nukem and Warcraft, countless hours spent on them... The most revolutionary one was Carmageddon, my family was just shocked! Then it came a lot of trash games + the infinite Battlefield/Counter-Strike (I was the AK guy) seasons, which were then replaced by eternal (successful, but full of hatred against the game's AI) FIFA seasons, until I got retired from games 😂
 - I don't trust in the current state of crypto currency, but digital money is here to stay (I can't remember last time I've touched bills/coins)... Also descentralization in general sounds great given our failed leaderships.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasraoni)](https://github.com/jonasraoni)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jonasraoni.visitor-badge)
