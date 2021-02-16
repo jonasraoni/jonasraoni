@@ -14,13 +14,13 @@ Dad of two boys, creator of [JSFromHell](http://jsfromhell.com), persistent hard
 
 - Every now and then we're surrounded by new ideas and technologies, which made me believe that everything we're building today is already legacy, something that will be dumped in a couple of years or even faster (when team leaders are replaced). So, I think we should strive to minimize the amount of code, complex architectures and customizations to the minimum! Which means it's not fruitful to spend a lot of time nitpicking and sharpening your knife for a war that may never come.
 
-- The less code, the better! I think the same applies to files, classes, tools, services, etc. Some people believe that having very simple functions, distributed across many files, makes things simpler, for me that just highly increases the cognitive load... It's like reading a book where each page sends you to another random one, without context, and switching between these pages is painful. So, I generally prefer to avoid complexity until it's needed.
+- The less code, the better! I think the same applies to files, classes, tools, services, etc. Some people believe that having very simple functions, distributed across many files, makes things simpler, for me that just highly increases the cognitive load... It's like reading a book where each page sends you to another random one, without context, and switching between these pages is painful. So, I generally prefer to avoid fragmenting the code until it's needed.
 
-- I like performatic code! I've seen good ideas saving a lot of money with hardware/servers. But I'm not willing to dump everything to achieve the maximum performance, I think that everything in life needs *equilibrium*, especially when something becomes so complex, that even you can't understand very well what's going on.
+- I like performatic code and I've seen good ideas saving a lot of money with hardware/servers. But I'm not willing to dump everything to achieve the maximum performance, I think that everything in life needs *equilibrium*. Especially when something becomes so complex, that even you can't understand very well what's going on.
 
-- I see coding as a kind of art, so I'm not a big fan of materials spitting rules, because people end up using them as a kind of "horse eye patch", but a problem might have N different (and equally great) solutions. But well, things are easier when everybody speaks the same language.
+- I see coding as a kind of art, so I'm not a big fan of materials spitting rules, people end up using those as a kind of "horse eye patch", but a problem might have N different (and equally great) solutions. But well... Things are easier when everybody speaks the same language.
 
-- I'm generally against depending on closed source products.
+- I'm generally against depending on closed source products/specific vendors, everything should be replaceable.
 
 - I love reinventing the wheel, but that's unhealthy to be used in a company. If you're able to build something great, better to make it open-source or direct your efforts towards an existing code base, so it can outlive yourself.
 
