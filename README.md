@@ -5,9 +5,8 @@ Software engineer with 15+ years (I got my first job in ~2001) of experience wor
 Dad of two boys, creator of [JSFromHell](http://jsfromhell.com), persistent hardhead (I'll try it again and again, until I succeed), challenge lover, bug hunter, soccer player wannabe, lego builder, fan of Italian food and desserts 🥰
 
 
-## How I Code/Solve Problems:
+## How I Code/Solve Problems
 
-I've left a description of my approaches and reasoning while trying to improve the performance of this code in this repository:
 [![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders)](https://github.com/jonasraoni/chutes-and-ladders)
 [![HackerRank solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=hackerrank)](https://github.com/jonasraoni/hackerrank)
 
@@ -26,9 +25,9 @@ Code editor written in Object Pascal that used [Scintilla](https://www.scintilla
 [![Notes Editor](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=notes)](https://github.com/jonasraoni/notes)
 
 
-## [Gists](https://gist.github.com/jonasraoni)
+## [My GitHub Gists](https://gist.github.com/jonasraoni)
 
-Small codes/notes which I thought wasn't worth to create a repository...
+Just small codes and notes which I thought wasn't worth to create a repository.
 
 
 ## Random Facts
