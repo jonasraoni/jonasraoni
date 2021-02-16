@@ -2,19 +2,7 @@
 
 Software engineer with 15+ years (I got my first job in ~2001) of experience working with different technologies and devices (jack of all trades, master of some 😁). You might check out my [LinkedIn](https://linkedin.com/jonasraoni) or [CV](https://drive.google.com/drive/u/1/folders/1vpI3lD4bKH3yrEljJm_UE1k1rMEJqcn3) for more professional information.
 
-Dad of two boys, creator of [JSFromHell](http://jsfromhell.com), challenge lover, bug hunter, soccer player wannabe, lego builder, fan of Italian food and desserts 🥰
-
-
-## Projects
-
-Code editor written in Object Pascal that used [Scintilla](https://www.scintilla.org/ScintillaDoc.html) under the hood, it was the first open-source project I joined.
-I joined it when it already existed, but contributed a lot with code and ideas, such as the transition from procedural code to an object oriented approach.
-
-[![Notes Editor](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=notes)](https://github.com/jonasraoni/notes)
-
-A source of manually minified JavaScript codes written with a friend a long time ago when I had plenty of spare time (abandoned, but I'm still using some codes from there 🥰).
-
-[![JSFromHell](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=jsfromhell)](https://github.com/jonasraoni/jsfromhell)
+Dad of two boys, creator of [JSFromHell](http://jsfromhell.com), persistent hardhead (I'll try it again and again, until I succeed), challenge lover, bug hunter, soccer player wannabe, lego builder, fan of Italian food and desserts 🥰
 
 
 ## How I Code/Solve Problems:
@@ -22,8 +10,25 @@ A source of manually minified JavaScript codes written with a friend a long time
 I've left a description of my approaches and reasoning while trying to improve the performance of this code in this repository:
 [![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders)](https://github.com/jonasraoni/chutes-and-ladders)
 [![HackerRank solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=hackerrank)](https://github.com/jonasraoni/hackerrank)
+
 [![Codility solutions in C#](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=codility)](https://github.com/jonasraoni/codility)
 [![LeetCode solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=leetcode)](https://github.com/jonasraoni/leetcode)
+
+
+## First Open Source Projects
+
+A source of manually minified JavaScript snippets written with a friend a long time ago, when I had plenty of spare time. It's kind of abandoned, but I'm still using some codes from there 🥰).
+
+[![JSFromHell](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=jsfromhell)](https://github.com/jonasraoni/jsfromhell)
+
+Code editor written in Object Pascal that used [Scintilla](https://www.scintilla.org/ScintillaDoc.html) under the hood, it was also my first open-source project. I've contributed with a lot with code and ideas, such as the transition from procedural code to an object oriented approach.
+
+[![Notes Editor](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=notes)](https://github.com/jonasraoni/notes)
+
+
+## [Gists](https://gist.github.com/jonasraoni)
+
+Small codes/notes which I thought wasn't worth to create a repository...
 
 
 ## Random Facts
