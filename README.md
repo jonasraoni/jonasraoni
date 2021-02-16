@@ -7,14 +7,14 @@ Dad of two boys, creator of [JSFromHell](http://jsfromhell.com), challenge lover
 
 ## Projects
 
-My first open-source project (it was a code editor written in Object Pascal that used [Scintilla](https://www.scintilla.org/ScintillaDoc.html) under the hood.
-I joined it when it already existed, but contributed a lot with code and ideas, such as transition from procedural code to object oriented.
+Code editor written in Object Pascal that used [Scintilla](https://www.scintilla.org/ScintillaDoc.html) under the hood, it was the first open-source project I joined.
+I joined it when it already existed, but contributed a lot with code and ideas, such as the transition from procedural code to an object oriented approach.
 
 [![Notes Editor](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=notes)](https://github.com/jonasraoni/notes)
 
-My second open-source project, a source of manually minified JavaScript codes written with a friend (abandoned, but I'm still using some codes from there 🥰).
+A source of manually minified JavaScript codes written with a friend a long time ago when I had plenty of spare time (abandoned, but I'm still using some codes from there 🥰).
 
-[![Notes Editor](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=jsfromhell)](https://github.com/jonasraoni/jsfromhell)
+[![JSFromHell](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=jsfromhell)](https://github.com/jonasraoni/jsfromhell)
 
 
 ## How I Code/Solve Problems:
