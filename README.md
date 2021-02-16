@@ -9,7 +9,6 @@ Dad of two boys, creator of [JSFromHell](http://jsfromhell.com), persistent hard
 
 [![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders&cache=1)](https://github.com/jonasraoni/chutes-and-ladders)
 [![HackerRank solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=hackerrank)](https://github.com/jonasraoni/hackerrank)
-
 [![Codility solutions in C#](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=codility)](https://github.com/jonasraoni/codility)
 [![LeetCode solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=leetcode)](https://github.com/jonasraoni/leetcode)
 
