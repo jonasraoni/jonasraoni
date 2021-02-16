@@ -7,7 +7,7 @@ Dad of two boys, creator of [JSFromHell](http://jsfromhell.com), persistent hard
 
 ## How I Code/Solve Problems
 
-[![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders)](https://github.com/jonasraoni/chutes-and-ladders)
+[![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders&cache=0)](https://github.com/jonasraoni/chutes-and-ladders)
 [![HackerRank solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=hackerrank)](https://github.com/jonasraoni/hackerrank)
 
 [![Codility solutions in C#](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=codility)](https://github.com/jonasraoni/codility)
