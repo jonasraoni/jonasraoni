@@ -1,12 +1,11 @@
-### About Me
+## About Me
 
-Software engineer with 15+ years (I got my first job in ~2001) of experience working with different technologies and devices (jack of all trades, master of some 😁).
-
-You might check out my [LinkedIn](https://linkedin.com/jonasraoni) or [CV](https://drive.google.com/drive/u/1/folders/1vpI3lD4bKH3yrEljJm_UE1k1rMEJqcn3).
+Software engineer with 15+ years (I got my first job in ~2001) of experience working with different technologies and devices (jack of all trades, master of some 😁). You might check out my [LinkedIn](https://linkedin.com/jonasraoni) or [CV](https://drive.google.com/drive/u/1/folders/1vpI3lD4bKH3yrEljJm_UE1k1rMEJqcn3) for more professional information.
 
 Dad of two boys, creator of [JSFromHell](http://jsfromhell.com), challenge lover, bug hunter, soccer player wannabe, lego builder, fan of Italian food and desserts 🥰
 
-### Projects
+
+## Projects
 
 My first open-source project (it was a code editor written in Object Pascal that used [Scintilla](https://www.scintilla.org/ScintillaDoc.html) under the hood.
 I joined it when it already existed, but contributed a lot with code and ideas, such as transition from procedural code to object oriented.
@@ -17,7 +16,8 @@ My second open-source project, a source of manually minified JavaScript codes wr
 
 [![Notes Editor](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=jsfromhell)](https://github.com/jonasraoni/jsfromhell)
 
-### How I Code/Solve Problems:
+
+## How I Code/Solve Problems:
 
 I've left a description of my approaches and reasoning while trying to improve the performance of this code in this repository:
 [![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders)](https://github.com/jonasraoni/chutes-and-ladders)
@@ -25,7 +25,8 @@ I've left a description of my approaches and reasoning while trying to improve t
 [![Codility solutions in C#](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=codility)](https://github.com/jonasraoni/codility)
 [![LeetCode solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=leetcode)](https://github.com/jonasraoni/leetcode)
 
-### Random Facts
+
+## Random Facts
 
 - I got my first computer when I was around 10 years old, a 486-DX2. I've learned how to use it by spying my cousin giving classes about DOS (not DoS 👀), so I still remember something about: `devicehigh=xyz`, `deltree`, typing `win` to start the Windows 3.11, turbo button, sound blaster kit, cleaning the mouse ball, zipdrive, SCSI (the super fast disk that nobody had 😁), etc.
 - I've got access to the computer after finding the key (yeah, computers had locks) and discovering the password (which was errrrr "password" 👀).
