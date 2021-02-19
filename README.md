@@ -2,10 +2,10 @@
 
 Software engineer with 15+ years (I got my first job in ~2001) of experience working with different technologies and devices (jack of all trades, master of some 😁). You might check out my [LinkedIn](https://linkedin.com/jonasraoni) or [CV](https://drive.google.com/drive/u/1/folders/1vpI3lD4bKH3yrEljJm_UE1k1rMEJqcn3) for more professional information.
 
-Dad of two boys, creator of [JSFromHell](http://jsfromhell.com), persistent hardhead (I'll try it again and again, until I succeed), challenge lover, bug hunter, soccer player wannabe, lego builder, fan of Italian food and desserts 🥰
+Persistent hardhead (I'll try again and again, until I succeed), dad of two boys (🧊 + 🔥), challenge lover, bug hunter, soccer player wannabe, lego builder, fan of Italian food and desserts 🥰
 
 
-## How I Code/Solve Problems and General Beliefs About Programming
+## How I Code/Solve Problems + General Beliefs About Programming
 
 [![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders&cache=1)](https://github.com/jonasraoni/chutes-and-ladders)
 [![HackerRank solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=hackerrank)](https://github.com/jonasraoni/hackerrank)
