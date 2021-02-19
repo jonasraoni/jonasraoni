@@ -14,15 +14,15 @@ Persistent hardhead (I'll try again and again, until I succeed), dad of two boys
 
 - Every now and then we're surrounded by new ideas and technologies, which made me believe that everything we're building today is already legacy, something that will be dumped in a couple of years or even faster (when team leaders are replaced). So, I think we should strive to minimize the amount of code, complex architectures and customizations to the minimum! Which means it's not fruitful to spend a lot of time nitpicking and sharpening your knife for a war that may never come.
 
-- The less code, the better! I think the same applies to files, classes, tools, services, etc. Some people believe that having very simple functions, distributed across many files, makes things simpler, for me that just highly increases the cognitive load... It's like reading a book where each page sends you to another random one, without context, and switching between these pages is painful. So, I generally prefer to avoid fragmenting the code until it's needed.
+- The less code, the better! I think the same applies to files, classes, tools, services, etc. Some people believe that having very simple functions, distributed across many files, makes things simpler, for me that just highly increases my cognitive load... It's like reading a book where each page sends me to another random page, without context, and switching between these pages is painful. So, I generally prefer to avoid fragmenting the code until an abstraction is needed (duplicated code).
 
-- I like performatic code and I've seen good ideas saving a lot of money with hardware/servers. But I'm not willing to dump everything to achieve the maximum performance, I think that everything in life needs *equilibrium*. Especially when something becomes so complex, that even you can't understand very well what's going on.
+- I like performatic code and I've seen good ideas saving a lot of money with hardware/servers. But I'm not willing to dump everything to achieve the maximum performance, I think that everything in life needs *equilibrium*. Especially when a piece of code becomes so complex, that even you can't understand anymore what's going on without reading it thoroughly.
 
-- I see coding as a kind of art, so I'm not a big fan of materials spitting rules, people end up using those as a kind of "horse eye patch", but a problem might have N different (and equally great) solutions. But well... Things are easier when everybody speaks the same language.
+- I see coding as a kind of art, so I'm not a big fan of materials spitting rules... People end up using those as a kind of "horse eye patch", which limits their alternatives, while the truth is that a problem might have N different (and equally great) solutions! But well, I have to agree that things are easier when everybody speaks the same language :)
 
 - I'm generally against depending on closed source products/specific vendors, everything should be replaceable.
 
-- I love reinventing the wheel, but that's unhealthy to be used in a company. If you're able to build something great, better to make it open-source or direct your efforts towards an existing code base, so it can outlive yourself.
+- I love reinventing the wheel, but that's unhealthy for a company. If you're able to build something great, better to make it open-source or direct your efforts towards an existing code base, so it can outlive yourself.
 
 
 ## First Open Source Projects
@@ -31,7 +31,7 @@ A source of manually minified JavaScript snippets written with a friend a long t
 
 [![JSFromHell](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=jsfromhell)](https://github.com/jonasraoni/jsfromhell)
 
-Code editor written in Object Pascal that used [Scintilla](https://www.scintilla.org/ScintillaDoc.html) under the hood, it was also my first open-source project. I've contributed with a lot with code and ideas, such as the transition from procedural code to an object oriented approach.
+Code editor written in Object Pascal that used [Scintilla](https://www.scintilla.org/ScintillaDoc.html) under the hood, it was also my first open-source project. I've contributed with a lot of code and ideas, such as the transition from procedural code to an object oriented approach. The plugins were written in JavaScript and the interface of the editor could be customized with CSS 😵
 
 [![Notes Editor](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=notes)](https://github.com/jonasraoni/notes)
 
