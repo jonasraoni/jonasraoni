@@ -5,12 +5,15 @@ Software engineer with 15+ years (I got my first job in ~2001) of experience wor
 Persistent hardhead (I'll try again and again, until I succeed), dad of two boys (🧊 + 🔥), challenge lover, bug hunter, soccer player wannabe, lego builder, fan of Italian food and desserts 🥰
 
 
-## How I Code/Solve Problems + General Beliefs About Programming
+## How I Code/Solve Problems
 
 [![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders&cache=1)](https://github.com/jonasraoni/chutes-and-ladders)
 [![HackerRank solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=hackerrank)](https://github.com/jonasraoni/hackerrank)
 [![Codility solutions in C#](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=codility)](https://github.com/jonasraoni/codility)
 [![LeetCode solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=leetcode)](https://github.com/jonasraoni/leetcode)
+
+
+## General Beliefs About Programming
 
 - Every now and then we're surrounded by new ideas and technologies, which made me accept that everything we're building now is already legacy, something that will be dumped in a couple of years or even faster (when team leaders are replaced). So, I think we should strive to minimize the amount of code, complex architectures and customizations to the minimum. It will make it easier to deal with the forthcoming deprecations.
 
