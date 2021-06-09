@@ -7,7 +7,7 @@ Persistent hardhead (I'll try again and again, until I succeed), dad of two boys
 
 ## How I Code/Solve Problems
 
-My key languages are JavaScript, C# and PHP, though in the past I've used C/C++, Pascal and a bit of Java. I'm a practical person, who doesn't like much slow, long and repetitive things, so I naturally try to be concise and short in my codes, I also try to write things as performatic as possible. Since I like small challenges, I've also started solving these tasks below in my spare time:
+My key languages are JavaScript, C# and PHP, though in the past I've used C/C++, Pascal and a bit of Java. I'm a practical person, who doesn't like much slow, long and repetitive things, so I naturally try to be concise and short in my codes, I also try to write things as performatic as possible. Since I like small challenges, I've also started solving the tasks below in my spare time:
 
 [![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders&cache=1)](https://github.com/jonasraoni/chutes-and-ladders)
 [![HackerRank solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=hackerrank)](https://github.com/jonasraoni/hackerrank)
