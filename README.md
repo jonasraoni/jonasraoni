@@ -17,23 +17,23 @@ My key languages are JavaScript, C# and PHP, though in the past I've used C/C++,
 
 ## General Beliefs About Programming
 
-- Every now and then we're surrounded by new ideas and technologies, which made me accept that everything we're building now is already legacy, something that will be dumped in a couple of years or even faster (when team leaders are replaced). So, I think we should strive to minimize the amount of code, complex architectures and customizations to the minimum. It will make it easier to deal with the forthcoming deprecations.
+- Every now and then we're surrounded by new ideas and technologies, which made me accept that everything we're building now is already legacy, something that will be dumped in a couple of years (well, I've seen it happening in small and big projects). So, I think we should strive to minimize the amount of code, complex architectures and customizations to the minimum, as it will make it easier to deal with the forthcoming deprecations.
 
-- Hiring in IT is broken. We're often looking for our clone, someone that thinks and knows the same things as us, in this process a lot of great professionals are lost, and I think there's no way to fix it! Personally I'd go with: indication from someone I trust > coding/implementation test (not huge, but complex enough to allow the person to show his organization, reasoning and resource management skills) > previous experiences/personal projects > soft-skills
+- Hiring in IT is broken. We're often looking for our clone, someone that thinks and knows the same things as us, and in this process a lot of great professionals are lost... And I think there's no way to fix it! Personally I'd go with: indication from someone I trust > "offline" coding/implementation test (not huge, but complex enough to allow the person to show his organization, reasoning and resource management skills) > previous experiences/personal projects > soft-skills
 
-- In general it's not fruitful to spend a lot of time nitpicking (micro-optimization) and sharpening your knife (overengineering) for a war that may never come.
+- My favorite type of task is to optimize slow things, but in general it's not fruitful to spend a lot of time nitpicking (micro-optimization) and sharpening your knife (overengineering) for a war that may never come.
 
 - The less code, the better! I think the same applies to files, classes, tools, services, etc. Some people believe that having very simple functions, distributed across many files, makes things simpler, for me that just highly increases my cognitive load... I feel like reading a book where each paragraph sends me to a random page, without context, and switching between these pages is painful. So, I generally prefer to avoid fragmenting the code until an abstraction is needed (e.g. duplicated code).
 
 - I'm generally against depending on closed source products and specific vendors, everything should be replaceable.
 
-- I like performatic code, I've seen good ideas saving a lot of money with hardware/servers, and if you want to keep me entertained, just give me an optimization issue to solve. But I'm not willing to do everything to achieve the maximum performance, I think that everything in life needs *equilibrium*. Especially when a piece of code becomes so complex, that even you can't understand anymore what's going on without reading it thoroughly (but sometimes I forget about this and keep going through the rabbit role 😂).
+- I like performatic code! I've seen good ideas saving a lot of money with hardware/servers, and if you want to keep me entertained, just give me an optimization issue to solve. But I'm not willing to do everything to achieve the maximum performance anymore, I think that everything in life needs *equilibrium*. Especially when a piece of code becomes so complex, that even its creator can't understand it anymore (that time when a small change brings you pain, because you're not sure it might break the toy, without reading the code throughly).
 
-- I like fast languages, micro-optimizations and such things, but it's overrated. For general applications, what really matter is to have an effective data transfer/data structure, the key is always to avoid using the database/disk/network.
+- I enjoy watching the "fastest language charts", micro-optimizations, golfing code and such things, but it's all overrated. For general applications, what really matter is to have an effective data transfer/structure, given the key to performance is always to avoid using resources.
 
-- I see coding as a kind of art, so I'm not a big fan of materials spitting rules... People end up using those as a kind of "horse eye patch", which limits their alternatives (e.g. "we can't use this, it will break the holy rule of Mr. XYZ"), while the truth is that a problem might have N different (and equally great) solutions! But well, I have to agree that things are easier when everybody speaks the same language :)
+- I see coding as a kind of art, so I'm not a big fan of materials spitting rules... People end up using those as a kind of "horse eye patch", which limits their alternatives (e.g. "we can't use this, it will break the holy rule of Mr. XYZ"), while the truth is that a problem might have N different (and equally great) solutions. But well, I have to agree that things are easier when everybody speaks the same language :)
 
-- I think reinventing the wheel is the best way to evolve, it gives us freedom to skip bad decisions and merge the good ones. But we can't forget that traditional jobs, require standard approaches.
+- I think reinventing the wheel is the best way to evolve, it gives us freedom to skip bad decisions and merge the good ones, that's how new tools appear. But we can't forget that traditional jobs, require standard approaches.
 
 
 ## First Open Source Projects
