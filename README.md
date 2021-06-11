@@ -7,7 +7,7 @@ Persistent hardhead (I'll try again and again, until I succeed), dad of two boys
 
 ## How I Code/Solve Problems
 
-My key languages are JavaScript, C# and PHP, though in the past I've used C/C++, Pascal and a bit of Java. I'm a practical person, who doesn't like much slow, long and repetitive things, so I naturally try to be concise and short in my codes, I also try to write things as performatic as possible. Since I like small challenges, I've also started solving the tasks below in my spare time:
+My key languages are JavaScript, C# and PHP, though in the past I've used C/C++, Pascal and a bit of Java. I'm a practical person, who doesn't like much slow, long and repetitive things, so I naturally try to be concise and short in my codes, I also try to write things as performatic as possible. Since I like small challenges, I've also started solving the tasks below in my micro spare time:
 
 [![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders&cache=1)](https://github.com/jonasraoni/chutes-and-ladders)
 [![HackerRank solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=hackerrank)](https://github.com/jonasraoni/hackerrank)
@@ -17,23 +17,23 @@ My key languages are JavaScript, C# and PHP, though in the past I've used C/C++,
 
 ## General Beliefs About Programming
 
-- Every now and then we're surrounded by new ideas and technologies, which made me accept that everything we're building now is already legacy, something that will be dumped in a couple of years (well, I've seen it happening in small and big projects). So, I think we should strive to minimize the amount of code, complex architectures and customizations to the minimum, as it will make it easier to deal with the forthcoming deprecations.
+- Rule of thumb: Every now and then we're surrounded by new ideas and technologies, which means that everything we're building is already a kind of legacy, which will be dumped (errr transformed) a couple of years ahead. So, I think we should strive to minimize the amount of code, complex architectures and customizations to the minimum, as it will make it easier to deal with the forthcoming deprecations.
 
-- Hiring in IT is broken. We're often looking for our clone, someone that thinks and knows the same things as us, and in this process a lot of great professionals are lost... And I think there's no way to fix it! Personally I'd go with: indication from someone I trust > "offline" coding/implementation test (not huge, but complex enough to allow the person to show his organization, reasoning and resource management skills) > previous experiences/personal projects > soft-skills
+- Hiring in IT: Broken! We're often looking for our clone, someone that thinks and knows the same things as us, and in this process a lot of great professionals are lost... And I think there's no way to fix it haha! Personally I'd follow these priorities: indication from someone I trust > "offline" coding/implementation test (not huge, but complex enough to allow the person to show his organization, reasoning and resource management skills) > previous experiences/personal projects > soft-skills.
 
-- My favorite type of task is to optimize slow things, but in general it's not fruitful to spend a lot of time nitpicking (micro-optimization) and sharpening your knife (overengineering) for a war that may never come.
+- Code fragmentation: The less code, the better! I think the same applies to the amount of files, classes, tools, services, etc. A lot of people advocate that simple and small functions, distributed across many files, makes things simpler, easier to test and difficult to break. My experience shows that reading/debugging/following such code highly increases my cognitive load, I feel like reading a book where each paragraph sends me to a random page, without context, and switching between these pages is painful (unless I'm the creator haha). So, I generally prefer to avoid fragmenting the code until an abstraction is needed (e.g. duplicated code).
 
-- The less code, the better! I think the same applies to files, classes, tools, services, etc. Some people believe that having very simple functions, distributed across many files, makes things simpler, for me that just highly increases my cognitive load... I feel like reading a book where each paragraph sends me to a random page, without context, and switching between these pages is painful. So, I generally prefer to avoid fragmenting the code until an abstraction is needed (e.g. duplicated code).
+- Micro-optimization: Ohh, I like it haha! But it's not fruitful to spend time nitpicking (micro-optimization) and sharpening your knife (overengineering) for a war that may never come, better to spend your time on macro-optimizations ¯\_(ツ)_/¯
 
-- I'm generally against depending on closed source products and specific vendors, everything should be replaceable.
+- Code complexity: Everything in life needs *equilibrium*, especially when a piece of code becomes so complex, that even its creator can't fully understand it anymore without reading the code throughly.
 
-- I like performatic code! I've seen good ideas saving a lot of money with hardware/servers, and if you want to keep me entertained, just give me an optimization issue to solve. But I'm not willing to do everything to achieve the maximum performance anymore, I think that everything in life needs *equilibrium*. Especially when a piece of code becomes so complex, that even its creator can't understand it anymore (that time when a small change brings you pain, because you're not sure it might break the toy, without reading the code throughly).
+- Dependencies: I'm generally against depending on closed source products and specific vendors, everything should be replaceable. Also, I'm against the micro-dependencies seen in the JavaScript world.
 
-- I enjoy watching the "fastest language charts", micro-optimizations, golfing code and such things, but it's all overrated. For general applications, what really matter is to have an effective data transfer/structure, given the key to performance is always to avoid using resources.
+- Slow vs fast languages: I enjoy watching "fastest language charts", and such things, but in the end it's a bit overrated. For general applications, what really matter is to have an effective data transfer/structure, given the key to performance is to avoid using resources.
 
-- I see coding as a kind of art, so I'm not a big fan of materials spitting rules... People end up using those as a kind of "horse eye patch", which limits their alternatives (e.g. "we can't use this, it will break the holy rule of Mr. XYZ"), while the truth is that a problem might have N different (and equally great) solutions. But well, I have to agree that things are easier when everybody speaks the same language :)
+- Coding patterns: I see coding as a kind of [art](http://dwitter.net), so I'm not a big fan of materials spitting coding rules. Some people end up using those as a kind of "horse eye patch", which limits their alternatives (e.g. "we can't use this, it will break the rule of Mr. XYZ"), while the truth is that a problem might have N different (and equally great) solutions. But things are easier when everybody speaks the same language :)
 
-- I think reinventing the wheel is the best way to evolve, it gives us freedom to skip bad decisions and merge the good ones, that's how new tools appear. But we can't forget that traditional jobs, require standard approaches.
+- Reinventing the wheel: I think it's the best way to evolve something, it gives us freedom to filter out bad decisions and merge in good ones, that's how new tools/approaches appear. But let's not forget that traditional jobs, require standard approaches.
 
 
 ## First Open Source Projects
@@ -54,14 +54,14 @@ Just small codes and notes which I thought wasn't worth to create a repository.
 
 ## Random Facts
 
+- I've been working remotely since 2015, and I fully recommend it!
 - I got my first computer when I was around 10 years old, a 486-DX2. I've learned how to use it by spying my cousin giving classes about DOS (not DoS 👀), so I still remember something about: `devicehigh=xyz`, `deltree`, typing `win` to start the Windows 3.11, turbo button, sound blaster kit, cleaning the mouse ball, zipdrive, SCSI (the super fast disk that nobody had 😁), etc.
-- I've got access to the computer after finding the key (yeah, computers had locks) and discovering the password (which was errrrr "password" 👀).
+- I've got access to the computer after finding the key (yeah, computers had locks) and discovering the password (which was errrrr "password" in my language 🤦‍♂️).
 - I've joined the internet after listening to some guys discussing about it and HTML in the classroom... I've got curious and once I arrived at home, I found an AOL CD and installed it, but well, it required a modem... Hopefully I remembered my cousin was talking about it, when he was setting up a Dial-Up connection to play Duke Nukem online (a real WTF at the time and, I still don't know from where he took all this knowledge haha), so I found a great 13.4 Kbps modem in a box with old hardware pieces, cut some cables and it just worked! I still remember about using the internet at night to save money, losing the connection when someone was calling and the introduction of "download resumers" was awesome 😎
 - I still feel proud about my old codes, since I've created a binary parser (which was used by the [MongoDB Driver](http://christiankvalheim.com/project/mongodb-native/#credits:2d4bed8c133910cf12f420f60fbee804)), a big number library and other things in JS, some years before they were introduced to the language, it's cool when you get random (as I totally didn't need these things) ideas and make them work =]
-- I don't have a specific preference to work in the backend/frontend, I consider that I have good taste/opinions, but I'm definetely not into design...
-- I've been working remotely since 2015, and I fully recommend it =]
+- Given that frontend has changed a lot these days, I don't have a specific preference to work in the backend/frontend anymore (which used to be the backend).
 - I took part into the [contest where the creator of JQuery](https://www.quirksmode.org/blog/archives/2005/09/addevent_recodi.html#c2757) (John Resig) was starting to become popular haha (our entry is the number #2, John's entry is #3).
-- I've started reading about web stuff around 1997... It was the time when everybody was using AOL, chatting rooms (who knew how to write rainbow texts was considered a hacker haha), Yahoo Groups, SubSeven (o_O) and etc... I've got a 30-50 pages document and it was just enough to learn HTML/CSS, it was also talking about JavaScript, but I didn't get the idea... Errrrrr, not until I discovered it was used to create those cool mouse trails, blinking radios and etc. 😂
+- I've started reading about web stuff around 1997... It was the time when everybody was using AOL, chatting rooms (who knew how to write rainbow texts was considered a hacker haha), Yahoo Groups, SubSeven (o_O) and etc... I've got a 30-50 pages Word document and it was just enough to learn HTML/CSS. It was also talking about JavaScript, but I didn't get the idea (why do I need this?!)... Errrrrr, not until I discovered it was used to create those cool mouse trails, blinking radios and etc. 😂
 - I've won a video game championship when I was a child (and others at my worker place), the older guys which lost for me, were praising me as a god 😂🏆
 - My first paid task was digitizing monographies when I was around 13. I have nothing to complain, any amount of money is a treasure for a teenager haha.
 - My first programming language was JavaScript.
