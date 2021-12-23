@@ -46,6 +46,7 @@ My key languages are JavaScript, C# and PHP, though in the past I've used C/C++,
 - **Hiring in IT:** We're often looking for our clone. Someone that thinks and knows the same things as us, and in this process a lot of great professionals are lost... And I think it's not possible to fix it.
 
     Big companies can afford to add more people/steps into the hiring process, to make it less biased (but more stressful for the interviewer) or to raise the bar with complex requirements, to ensure they are hiring an exceptional brain (hopefully they are not hiring a bazooka to kill an ant).
+
     For smaller companies I'd follow these priorities: indication from someone I trust > previous experiences/personal projects AND/OR offline coding/implementation test (not huge, but complex enough to allow the person to show his organization, reasoning and resource management skills) > soft-skills.
 
 
