@@ -41,7 +41,7 @@ My key languages are JavaScript, C# and PHP, though in the past I've used C/C++,
 
 - **Coding patterns:** I see coding as a kind of [art](https://www.dwitter.net), so I'm not a big fan of materials spitting coding rules. Some people end up using those as a kind of "horse eye patch", which limits their alternatives, while the truth is that a problem might have N different (and equally great) solutions. But yeah, things are easier when everybody speaks the same language :)
 
-- Reinventing the wheel: Traditional jobs, require standard approaches. Despite that, I think reinventing the wheel is the best way to evolve something, it gives us freedom to filter out bad decisions and merge in the good ones, that's how disruptive tools/approaches are born.
+- **Reinventing the wheel:** Traditional jobs, require standard approaches. Despite that, I think reinventing the wheel is the best way to evolve something, it gives us freedom to filter out bad decisions and merge in the good ones, that's how disruptive tools/approaches are born.
 
 - **Hiring in IT:** We're often looking for our clone. Someone that thinks and knows the same things as us, and in this process a lot of great professionals are lost... And I think it's not possible to fix it.
 
