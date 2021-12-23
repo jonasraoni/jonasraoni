@@ -17,33 +17,33 @@ My key languages are JavaScript, C# and PHP, though in the past I've used C/C++,
 
 ## General Beliefs/Rants About Programming
 
-- Personal rule of thumb: Every now and then we're surrounded by new ideas and technologies, which means that everything we're building is already a kind of legacy, which will be dumped (errr transformed) a couple of years ahead.
+- **Personal rule of thumb:** Every now and then we're surrounded by new ideas and technologies, which means that everything we're building is already a kind of legacy, which will be dumped (errr transformed) a couple of years ahead.
 
     I think it's part of our job to make the transition easier, by minimizing the amount of code, complex architectures and customizations to the minimum. Choosing long-standing libraries and avoiding being an innovator/early-adopter might help.
 
-- Code fragmentation: The less code the better! Naturally the same should apply to the number of files, classes, tools, services, etc.
+- **Code fragmentation:** The less code the better! Naturally the same should apply to the number of files, classes, tools, services, etc.
 
     Simple and small functions/classes (implicitly fragmented across several files) are easier to test, reuse, understand and difficult to break. I can't disagree with that! But in my experience debugging/reading such code highly increases my cognitive load, I feel like reading a book where each paragraph sends me to a random page, with no context, and switching between these pages is painful (unless when I'm the creator 😁).
 
     This way I generally try to avoid fragmenting too much the code and also creating too many abstractions... Basically, I think that a god method/class is horrible, but the inverse is not less cruel.
 
-- Micro-optimizations: I like them haha! But it's not fruitful to spend much time nitpicking (micro-optimizations) and sharpening your knife (overengineering) for a war that may never come, better to spend some time on macro-optimizations using a profiler ¯\\_(ツ)_/¯
+- **Micro-optimizations:** I like them haha! But it's not fruitful to spend much time nitpicking (micro-optimizations) and sharpening your knife (overengineering) for a war that may never come, better to spend some time on macro-optimizations using a profiler ¯\\_(ツ)_/¯
 
-- Code complexity: Everything in life needs *equilibrium*, especially when a piece of code becomes so complex, that even its creator can't fully understand it without reading the code throughly. As there's no rules about it (what's simple for you, might be complex for me), I think it's enough to align the complexity with your team.
+- **Code complexity:** Everything in life needs *equilibrium*, especially when a piece of code becomes so complex, that even its creator can't fully understand it without reading the code throughly. As there's no rules about it (what's simple for you, might be complex for me), I think it's enough to align the complexity with your team.
 
-- Dependencies: I'm against depending too much on specific features from closed source products/vendors, everything should be replaceable. On the other hand, I fully support using **popular** open-source projects, as you get support, documentation, testers and upgrades for free.
+- **Dependencies:** I'm against depending too much on specific features from closed source products/vendors, everything should be replaceable. On the other hand, I fully support using **popular** open-source projects, as you get support, documentation, testers and upgrades for free.
 
     After having some experience modernizing large legacy code bases, I'd say it's much better to use ready packages than hand-made code, even if you can do a better job.
 
     p.s.: I'm still trying to swallow micro-dependencies (hello `node_modules`), but well, as long as it saves you some lines of code, it should be ok...
 
-- Slow vs fast languages: I enjoy using the fastest language available, but in the end processing speed is overrated. For general applications, what really matter is having an effective data transfer/structure, as the key to performance is avoiding/delaying/throttling the resource usage.
+- **Slow vs fast languages:** I enjoy using the fastest language available, but in the end processing speed is overrated. For general applications, what really matter is having an effective data transfer/structure, as the key to performance is avoiding/delaying/throttling the resource usage.
 
-- Coding patterns: I see coding as a kind of [art](https://www.dwitter.net), so I'm not a big fan of materials spitting coding rules. Some people end up using those as a kind of "horse eye patch", which limits their alternatives, while the truth is that a problem might have N different (and equally great) solutions. But yeah, things are easier when everybody speaks the same language :)
+- **Coding patterns:** I see coding as a kind of [art](https://www.dwitter.net), so I'm not a big fan of materials spitting coding rules. Some people end up using those as a kind of "horse eye patch", which limits their alternatives, while the truth is that a problem might have N different (and equally great) solutions. But yeah, things are easier when everybody speaks the same language :)
 
 - Reinventing the wheel: Traditional jobs, require standard approaches. Despite that, I think reinventing the wheel is the best way to evolve something, it gives us freedom to filter out bad decisions and merge in the good ones, that's how disruptive tools/approaches are born.
 
-- Hiring in IT: We're often looking for our clone. Someone that thinks and knows the same things as us, and in this process a lot of great professionals are lost... And I think it's not possible to fix it.
+- **Hiring in IT:** We're often looking for our clone. Someone that thinks and knows the same things as us, and in this process a lot of great professionals are lost... And I think it's not possible to fix it.
 
     Big companies can afford to add more people/steps into the hiring process, to make it less biased (but more stressful for the interviewer) or to raise the bar with complex requirements, to ensure they are hiring an exceptional brain (hopefully they are not hiring a bazooka to kill an ant).
     For smaller companies I'd follow these priorities: indication from someone I trust > previous experiences/personal projects AND/OR offline coding/implementation test (not huge, but complex enough to allow the person to show his organization, reasoning and resource management skills) > soft-skills.
