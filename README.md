@@ -1,19 +1,22 @@
-## About Me
+## About Me 
 
-Software engineer with +20 years (first job in ~2001) of experience working with different technologies and devices. You might check out my [LinkedIn](https://linkedin.com/jonasraoni) or [CV](https://drive.google.com/drive/u/1/folders/1vpI3lD4bKH3yrEljJm_UE1k1rMEJqcn3) for more professional information.
+🤵 Software engineer with +20 years of experience (first job in ~2001), check out my [LinkedIn](https://linkedin.com/jonasraoni) or [CV](https://drive.google.com/drive/u/1/folders/1vpI3lD4bKH3yrEljJm_UE1k1rMEJqcn3) for more professional information.
 
-Persistent hardhead (I'll try again and again, until I succeed), dad of two boys (🔥 + 🧊), challenge lover, bug hunter, soccer player wannabe, lego builder, fan of Italian food and desserts 🍨
+I don't think I've contributed enough to open-source, but it was enough to make "[jonas raoni](https://github.com/search?p=2&q=jonas+raoni&type=Code)" and "[jsfromhell](https://github.com/search?p=2&q=jsfromhell&type=Code)" bring respectively +24K and +32K records just in GitHub, probably due to my old project http://jsfromhell.com (online for historic purposes). These little pieces of text have the power to transcend my own existence 😵
 
-My key languages are **JavaScript**, **C#** and **PHP**, though in the past I've used C/C++, Object Pascal (Delphi) and a bit of Java. On the frontend I've been using Vue.js and in the past jQuery, a bit of AngularJS and hand-made components.
+**💼 Work:** Software Architect at [Luxoft](https://www.luxoft.com/)/[DXC](https://dxc.com) (financial sector) and Systems Developer at the [SFU University](https://www.sfu.ca/) (open-source publishing platform).
 
-At this moment I'm working as a C# Architect at [Luxoft](https://www.luxoft.com/)/[DXC](https://dxc.com) and also as a PHP developer at the [SFU University](https://www.sfu.ca/). On a daily basis I deal with microservices, message queues, general optimizations and also build SPAs in Vue.js.
+**🛠 Skills:** My key languages are **JavaScript**, **C#** and **PHP**. On a daily basis I deal with microservices, REST APIs, message queues, tests, build SPAs in Vue.js, general optimizations and support users. About storage/messages, I'm normally using Microsoft SQL Server, PostgreSQL, MySQL, Kafka and RabbitMQ.
 
-I didn't contribute much to open source, but it was enough to make "[jonas raoni](https://github.com/search?p=2&q=jonas+raoni&type=Code)" and "[jsfromhell](https://github.com/search?p=2&q=jsfromhell&type=Code)" bring respectively +24K and +32K records just in GitHub, probably due to my old project http://jsfromhell.com (online for historic purposes). These little pieces of text have the power to transcend my own existence 😵
+_At this moment I'm moving into Node and React._
 
+**🏷 Etc:** Persistent hardhead (I'll try again and again, until I succeed), proactive, natural saver, challenge lover, bug hunter, dad of two boys (🔥🧊), soccer player wannabe, lego builder, fan of Italian food and desserts 🍨
+
+**⌛ Past:** C/C++, Object Pascal (Delphi), a bit of Java, jQuery, AngularJS and dead tech.
 
 ## How I Code/Solve Problems
 
-I'm a practical person, who doesn't like much slow, long and repetitive things, so I naturally try to be concise and short in my codes, I also try to write things as performatic as possible. Since I like small challenges, I've started solving the tasks below in my micro spare time:
+I'm a practical person, who doesn't like slow, long and repetitive things, so I naturally try to be concise and short in my codes, I also try to write things as performatic as possible. Since I like small challenges, I've started solving the tasks below in my micro spare time:
 
 [![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders&cache=1)](https://github.com/jonasraoni/chutes-and-ladders)
 [![HackerRank solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=hackerrank)](https://github.com/jonasraoni/hackerrank)
