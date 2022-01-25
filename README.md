@@ -1,15 +1,19 @@
 ## About Me
 
-Software engineer with 15+ years (I got my first job in ~2001) of experience working with different technologies and devices (jack of all trades, master of some 😁). You might check out my [LinkedIn](https://linkedin.com/jonasraoni) or [CV](https://drive.google.com/drive/u/1/folders/1vpI3lD4bKH3yrEljJm_UE1k1rMEJqcn3) for more professional information.
-
-In my opinion I didn't contribute much to open source, but it was enough to make "[jonas raoni](https://github.com/search?p=2&q=jonas+raoni&type=Code)" and "[jsfromhell](https://github.com/search?p=2&q=jsfromhell&type=Code)" bring respectively +24K and +32K records just in GitHub (mostly due to my old project http://jsfromhell.com, which is online for historic purposes). These little pieces of text have the power to transcend my own existence 😵
+Software engineer with +20 years (first job in ~2001) of experience working with different technologies and devices. You might check out my [LinkedIn](https://linkedin.com/jonasraoni) or [CV](https://drive.google.com/drive/u/1/folders/1vpI3lD4bKH3yrEljJm_UE1k1rMEJqcn3) for more professional information.
 
 Persistent hardhead (I'll try again and again, until I succeed), dad of two boys (🔥 + 🧊), challenge lover, bug hunter, soccer player wannabe, lego builder, fan of Italian food and desserts 🍨
+
+My key languages are **JavaScript**, **C#** and **PHP**, though in the past I've used C/C++, Object Pascal (Delphi) and a bit of Java. On the frontend I've been using Vue.js and in the past jQuery, a bit of AngularJS and hand-made components.
+
+At this moment I'm working as a C# Architect at [Luxoft](https://www.luxoft.com/)/[DXC](https://dxc.com) and also as a PHP developer at the [SFU University](https://www.sfu.ca/). On a daily basis I deal with microservices, message queues, general optimizations and also build SPAs in Vue.js.
+
+I didn't contribute much to open source, but it was enough to make "[jonas raoni](https://github.com/search?p=2&q=jonas+raoni&type=Code)" and "[jsfromhell](https://github.com/search?p=2&q=jsfromhell&type=Code)" bring respectively +24K and +32K records just in GitHub, probably due to my old project http://jsfromhell.com (online for historic purposes). These little pieces of text have the power to transcend my own existence 😵
 
 
 ## How I Code/Solve Problems
 
-My key languages are **JavaScript**, **C#** and **PHP**, though in the past I've used C/C++, Pascal/Delphi and a bit of Java. I'm a practical person, who doesn't like much slow, long and repetitive things, so I naturally try to be concise and short in my codes, I also try to write things as performatic as possible. Since I like small challenges, I've started solving the tasks below in my micro spare time:
+I'm a practical person, who doesn't like much slow, long and repetitive things, so I naturally try to be concise and short in my codes, I also try to write things as performatic as possible. Since I like small challenges, I've started solving the tasks below in my micro spare time:
 
 [![Chutes/snakes and ladders](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=chutes-and-ladders&cache=1)](https://github.com/jonasraoni/chutes-and-ladders)
 [![HackerRank solutions in JavaScript](https://github-readme-stats.vercel.app/api/pin/?username=jonasraoni&repo=hackerrank)](https://github.com/jonasraoni/hackerrank)
