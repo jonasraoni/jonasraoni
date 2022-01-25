@@ -4,7 +4,7 @@ Software engineer with 15+ years (I got my first job in ~2001) of experience wor
 
 Persistent hardhead (I'll try again and again, until I succeed), dad of two boys (🔥 + 🧊), challenge lover, bug hunter, soccer player wannabe, lego builder, fan of Italian food and desserts 🍨
 
-Unfortunately I didn't contribute much to open source, but it was enough to make "[jonas raoni](https://github.com/search?p=2&q=jonas+raoni&type=Code)" bring +24K records on GitHub and +32K for "[jsfromhell](https://github.com/search?p=2&q=jsfromhell&type=Code)". These little pieces of text have the power to transcend my own existence 😵
+I didn't contribute much to open source, but it was enough to make "[jonas raoni](https://github.com/search?p=2&q=jonas+raoni&type=Code)" bring +24K records on GitHub and +32K for "[jsfromhell](https://github.com/search?p=2&q=jsfromhell&type=Code)" (mostly due to my old project http://jsfromhell.com, which is online for historic purposes). These little pieces of text have the power to transcend my own existence 😵
 
 
 ## How I Code/Solve Problems
