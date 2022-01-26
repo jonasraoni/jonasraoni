@@ -2,6 +2,8 @@
 
 🤵 Software engineer with +20 years of experience (first job in ~2001), check out my [LinkedIn](https://linkedin.com/jonasraoni) or [CV](https://drive.google.com/drive/u/1/folders/1vpI3lD4bKH3yrEljJm_UE1k1rMEJqcn3) for more professional information.
 
+I'm a persistent hardhead (I'll try again and again, until I succeed!), **natural saver**, proactive, challenge lover, bug hunter, dad of two boys (🔥🧊), soccer player wannabe, lego builder, fan of Italian food and desserts 🍨
+
 I don't think I've contributed much to open-source, but it was enough to make "[jonas raoni](https://github.com/search?p=2&q=jonas+raoni&type=Code)" and "[jsfromhell](https://github.com/search?p=2&q=jsfromhell&type=Code)" bring respectively +24K and +32K records just in GitHub, probably due to my old project http://jsfromhell.com (online for historic purposes). These little pieces of text have the power to transcend my own existence 😵
 
 **💼 Work:** Software Architect at [Luxoft](https://www.luxoft.com/)/[DXC](https://dxc.com) (financial sector) and Systems Developer at the [SFU University](https://www.sfu.ca/) (open-source publishing platform).
@@ -9,8 +11,6 @@ I don't think I've contributed much to open-source, but it was enough to make "[
 **🛠 Skills:** My key languages are **JavaScript**, **C#** and **PHP**. On a daily basis I deal with microservices, REST APIs, message queues, tests, build SPAs in Vue.js, general optimizations and support users. About storage/messages, I'm normally using Microsoft SQL Server, PostgreSQL, MySQL, Kafka and RabbitMQ.
 
 _At this moment I'm moving into Node and React._
-
-**🏷 Etc:** Persistent hardhead (I'll try again and again, until I succeed), proactive, natural saver, challenge lover, bug hunter, dad of two boys (🔥🧊), soccer player wannabe, lego builder, fan of Italian food and desserts 🍨
 
 **⌛ Past:** C/C++, Object Pascal (Delphi), a bit of Java, jQuery, AngularJS and dead tech.
 
