@@ -31,17 +31,17 @@ I'm a practical person, who doesn't like slow, long and repetitive things, so I 
 
 - **Personal rule of thumb:** Every now and then we're surrounded by new ideas and technologies, which means that everything we're building is already a kind of legacy, which will be dumped (errr transformed) a couple of years ahead.
 
-  I think it's part of our job to make the transition easier, by minimizing the amount of code, complex architectures and customizations to the minimum. Choosing long-standing libraries and avoiding being an innovator/early-adopter might help.
+  I think it's part of our job to make the transition easier, by minimizing the amount of code, complex architectures and customizations to the minimum. Choosing long-standing libraries and avoiding being an early-adopter of tools/frameworks might be helpful.
 
-- **Code fragmentation:** The less code the better! Naturally the same should apply to the number of files, classes, tools, services, etc.
+- **Code fragmentation:** The less code the better! Naturally the same applies to the number of files, classes, tools, services, etc.
 
-  Simple and small functions/classes (implicitly fragmented across several files) are easier to test, reuse, understand and difficult to break. I can't disagree with that! But in my experience debugging/reading such code highly increases my cognitive load, I feel like reading a book where each paragraph sends me to a random page, with no context, and switching between these pages is painful (unless when I'm the creator 😁).
+  I guess that everybody agrees simple and small functions/classes (**implicitly fragmented across several files**) are easier to test, reuse, understand and less likely to be broken. But debugging/reading such code full of indirections highly increases my cognitive load, I feel like reading a book where each paragraph sends me to a random page, with no context, and switching between these pages is painful (unless I'm the creator 😁).
 
-  This way I generally try to avoid fragmenting too much the code and also creating too many abstractions... Basically, I think that a god method/class is horrible, but the inverse is not less cruel.
+  This way I generally prefer to avoid fragmenting the code/creating too many abstractions... Basically, I think that a god method/class is horrible, but the inverse is not less cruel.
 
-- **Micro-optimizations:** I like them haha! But it's not fruitful to spend much time nitpicking (micro-optimizations) and sharpening your knife (overengineering) for a war that may never come, better to spend some time on macro-optimizations using a profiler ¯\\_(ツ)_/¯
+- **Micro-optimizations:** My favourite stuff! But it's not fruitful to spend time nitpicking (micro-optimizations) and sharpening your knife (overengineering) for a war that may never come, better to spend some time on macro-optimizations using a profiler ¯\\_(ツ)_/¯
 
-- **Code complexity:** Everything in life needs *equilibrium*, especially when a piece of code becomes so complex, that even its creator can't fully understand it without reading the code throughly. As there's no rules about it (what's simple for you, might be complex for me), I think it's enough to align the complexity with your team.
+- **Code complexity:** Everything in life needs *equilibrium*, especially when a piece of code becomes so complex, that even its creator can't fully understand it without reading the code throughly. As there's no specific rule here (what is simple for you, might be complex for another), I think it's enough to just align the complexity with your team, always giving preference to the simplicity.
 
 - **Dependencies:** I'm against depending too much on specific features from closed source products/vendors, everything should be replaceable. On the other hand, I fully support using **popular** open-source projects, as you get support, documentation, testers and upgrades for free.
 
@@ -57,7 +57,7 @@ I'm a practical person, who doesn't like slow, long and repetitive things, so I 
 
 - **Hiring in IT:** We're often looking for our clone. Someone that thinks and knows the same things as us, and in this process a lot of great professionals are lost... And I think it's not possible to fix it.
 
-  Big companies can afford to add more people/steps into the hiring process, to make it less biased (but more stressful for the interviewer) or to raise the bar with complex requirements, to ensure they are hiring an exceptional brain (hopefully they are not hiring a bazooka to kill an ant).
+  Big companies can afford to add more people/steps into the hiring process, to make it less biased (but more stressful for the interviewee), or to raise the bar with complex requirements, to ensure they are hiring an exceptional brain (hopefully they are not grabbing bazookas to kill ants, that's bad for the society).
 
   For smaller companies I'd follow these priorities: indication from someone I trust > previous experiences/personal projects AND/OR offline coding/implementation test (not huge, but complex enough to allow the person to show his organization, reasoning and resource management skills) > soft-skills.
 </details>
