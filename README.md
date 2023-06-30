@@ -6,11 +6,11 @@ I'm a persistent hardhead (I'll try again and again, until I succeed!), **natura
 
 I don't think I've contributed much to open-source, but it was enough to make "[jonas raoni](https://github.com/search?p=2&q=jonas+raoni&type=Code)" and "[jsfromhell](https://github.com/search?p=2&q=jsfromhell&type=Code)" bring respectively +26K and +35K records just in GitHub, probably due to my old project http://jsfromhell.com (online for historic purposes). These little pieces of text have the power to transcend my own existence 😵
 
-**💼 Work:** Systems Developer at the [SFU University](https://www.sfu.ca/), working with open-source publishing platforms.
+**💼 Work:** Systems Developer at [SFU University](https://www.sfu.ca/), working with open-source publishing platforms.
 
 **🛠 Skills:** My key languages are **JavaScript**, **C#** and **PHP**. On a daily basis I deal with microservices, REST APIs, message queues, tests, build SPAs in Vue.js, general optimizations and support users. About storage/messages, I'm normally using Microsoft SQL Server, PostgreSQL, MySQL, Kafka and RabbitMQ.
 
-_At this moment I'm moving into Node and React._
+_At this moment I'm thinking about moving back into Node/React or maybe something new, such as Rust/Go_
 
 **⌛ Past:** C/C++, Object Pascal (Delphi), a bit of Java, jQuery, AngularJS and dead tech.
 
