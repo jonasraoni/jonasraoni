@@ -109,5 +109,3 @@ Just small codes and notes which I thought wasn't worth to create a repository.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasraoni)](https://github.com/jonasraoni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasraoni&layout=compact&langs_count=10)](https://github.com/jonasraoni)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jonasraoni.visitor-badge)
