@@ -107,5 +107,12 @@ I'm a practical person, who doesn't like slow, long and repetitive things, so I 
 
 Just small codes and notes which I thought wasn't worth to create a repository.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasraoni)](https://github.com/jonasraoni)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasraoni&layout=compact&langs_count=10)](https://github.com/jonasraoni)
+<p align="left">
+<a href="https://github.com/edinsoncs">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edinsoncs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edinsoncs&layout=compact&langs_count=8&theme=react"/>
+</a>
+</p>
+
+[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jonasraoni&show_icons=true&theme=react&include_all_commits=true&count_private=true)](https://github.com/jonasraoni)
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jonasraoni&layout=compact&langs_count=10&theme=react)](https://github.com/jonasraoni)
